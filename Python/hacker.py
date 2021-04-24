@@ -14,4 +14,3 @@ if __name__ == '__main__':
         s = input()
         print(s[::2] + ' ' + s[1::2])
 
-
